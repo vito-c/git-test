@@ -1,0 +1,3 @@
+[submodule "git-submod"]
+	path = git-submod
+	url = git@github.com:vito-c/git-submod.git
