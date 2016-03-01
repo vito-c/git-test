@@ -1,3 +1,6 @@
 [submodule "git-submod"]
 	path = git-submod
 	url = git@github.com:vito-c/git-submod.git
+[submodule "pirate-vim"]
+	path = pirate-vim
+	url = git@github.com:vito-c/pirate-vim.git
